@@ -1,6 +1,6 @@
 /*
 EJERCICIO 1
-Pregunta de negocio:
+Pregunta:
 ¿Cuántos clientes tenemos registrados en total?
 
 Explicación:
